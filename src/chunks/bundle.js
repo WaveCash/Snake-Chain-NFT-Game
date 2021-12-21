@@ -8,4 +8,3 @@ System.register("chunks:///_virtual/cjs-loader.mjs",[],(function(r){"use strict"
 System.register("chunks:///_virtual/moralis.mjs_cjs=&original=.js",["./cjs-loader.mjs","./moralis.js"],(function(e,t){"use strict";var r,s;return{setters:[function(e){r=e.default},function(t){s=t.__cjsMetaURL;var r={};r.__cjsMetaURL=t.__cjsMetaURL,r.default=t.default,e(r)}],execute:function(){s||r.throwInvalidWrapper("./moralis.js",t.meta.url),r.require(s)}}}));
 
 } }; });
-//# sourceMappingURL=bundle.js.map

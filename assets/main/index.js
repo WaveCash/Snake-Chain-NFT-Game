@@ -107,4 +107,3 @@ System.register("chunks:///_virtual/main",["./moralis.mjs_cjs=&original=.js","./
     };
     });
 });
-//# sourceMappingURL=index.js.map
